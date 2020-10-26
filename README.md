@@ -13,7 +13,7 @@
 
 # Limitations:
   - Only integrals for [S orbitals](https://en.wikipedia.org/wiki/Gaussian_orbital) are implemented,
-  - the number of total electrons in the system **MUST BE EVEN** (see [restricted Hartree-Fock](https://en.wikipedia.org/wiki/Restricted_open-shell_Hartree%E2%80%93Fock)).
+  - the total number of electrons in the system **MUST BE EVEN** (see [restricted Hartree-Fock](https://en.wikipedia.org/wiki/Restricted_open-shell_Hartree%E2%80%93Fock)).
 
 # Build:
   ```
