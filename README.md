@@ -1,4 +1,4 @@
-# [ARCHIVE/2008] Hartree-Fock-Roothan
+# [ARCHIVE/2008] Hartree-Fock-Roothan (F77)
   - **NAIVE** implementation of [Hartree-Fock method](https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method) in [GTO base](https://en.wikipedia.org/wiki/Gaussian_orbital),
   - **ARCHIVAL** code written in **2008**,
   - pure **FORTRAN 77** syntax,
