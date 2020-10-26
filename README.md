@@ -2,6 +2,7 @@
   - **NAIVE** implementation of [Hartree-Fock method](https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method) in [GTO base](https://en.wikipedia.org/wiki/Gaussian_orbital),
   - **ARCHIVAL** code written in **2008**,
   - pure **FORTRAN 77** syntax,
+  - [C++ port](https://github.com/dzik143/hfr-cpp) is available,
   - released as **PUBLIC DOMAIN** - use for any purpose.
 
 # Features:
